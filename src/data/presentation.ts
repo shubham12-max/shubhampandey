@@ -20,15 +20,11 @@ const presentation: Presentation = {
   socials: [
     {
       label: "LinkedIn",
-      link: "https://linkedin.com/in/ashokkmt",
+      link: "https://linkedin.com/in/shubhampandey7579/",
     },
     {
       label: "GitHub",
-      link: "https://github.com/ashokkmt",
-    },
-    {
-      label: "StackOverflow",
-      link: "https://stackoverflow.com/users/22745165/november",
+      link: "https://github.com/shubham12-max",
     },
   ],
 };
