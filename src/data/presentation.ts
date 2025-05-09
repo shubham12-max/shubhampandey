@@ -12,8 +12,8 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "ashokkumawat4555@gmail.com",
-  title: "Hi, i’m Ashok 👋",
+  mail: "shubhampandey7579@gmail.com",
+  title: "Hi, i’m Shubham 👋",
   //profile: "/profile.webp",
   description:
     "I am a 2nd-year BTech student at Graphic Era Hill University, Dehradun. I am passionate about *software development, and problem-solving*. Currently, I am exploring backend and frontend development while expanding my knowledge in AI and cloud platforms. I have experience with *Python, C, C++, MySQL, MongoDB, and GCP*, and I enjoy solving complex problems through efficient code and system design. I am always *looking for opportunities to grow and contribute to innovative projects*.",
