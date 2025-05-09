@@ -1,4 +1,4 @@
-# 👨‍🚀 Ashok's Portfolio in Astro
+# 👨‍🚀 Shubham's Portfolio in Astro
 
 This portfolio is based on theme by [Maxence](https://www.maxencewolff.com), the [repo is here](https://github.com/MaeWolff/astro-portfolio-template).
 
