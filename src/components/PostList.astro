@@ -1,0 +1,17 @@
+---
+import { type CollectionEntry } from "astro:content";
+import Post from "./Post.astro";
+
+type Props = {
+    posts: CollectionEntry<'posts'>[];
+};
+
+const {posts} = Astro.props;
+---
+
+<div class="group flex flex-col gap-2 border-t border-neutral-700 py-4 transition-all hover:text-neutral-100">
+
+{posts.map((post) => <Post post={post} />)}
+
+</div>
+
